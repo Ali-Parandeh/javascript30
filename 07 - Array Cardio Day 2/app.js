@@ -17,11 +17,16 @@ const comments = [
 
 // Some and Every Checks
 // Array.prototype.some() // is at least one person 19 or older?
-const oneNineteen = people.some(person => 2020 - person.year >= 19)
+const oneNineteen = people.some(person => {
+    const currentYear = (new Date()).getFullYear();
+    return currentYear - person.year >= 19;
+});
+  
 console.log(oneNineteen)
 
 // Array.prototype.every() // is everyone 19 or older?
-const allNineteen = people.every(person => 2020 - person.year >= 19)
+const allNineteen = people.every(person => (new Date()).getFullYear() - person.year >= 19)
+
 console.log(allNineteen)
 
 // Array.prototype.find()
@@ -34,8 +39,19 @@ console.log(found)
 // Array.prototype.findIndex()
 // Find the comment with this ID
 // delete the comment with the ID of 823423
+console.log('original comments')
 console.table(comments)
-const foundIndex = comments.findIndex(comment => comment.id === 823423)
-const newComments = comments.filter(comment => comment.id != 823423)
-console.table(comments)
-console.table(newComments)
+
+const index = comments.findIndex(comment => comment.id === 823423)
+const newComments = [
+    ...comments.slice(0, index),
+    ...comments.slice(index + 1)
+];
+console.log('New comments using slice');
+console.table(newComments);
+
+// or use splice which is inplace  - returns the removed item
+console.log('return of splice');
+console.table(comments.splice(index, 1));
+console.log('New comments using splice');
+console.table(comments);
