@@ -75,3 +75,11 @@
   - Preventing Default Behaviours in the browser
   
 ![Local Storage](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/localStorage.gif)
+
+### 15. Mouse Move Text Shadow Effect
+- Learning Points:
+  - Dynamic Page animation tracking mouse move
+  - Dealing with mouse move behaviour over children elements
+  
+![Mouse Move Text Effect 1](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/textShadowEffect.gif)
+![Mouse Move Text Effect 2](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/textShadowEffect2.gif)
