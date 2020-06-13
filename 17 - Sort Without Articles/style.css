@@ -20,7 +20,7 @@ body {
   
   #bands li {
     border-bottom: 1px solid #efefef;
-    padding: 20px;
+    padding: 10px;
   }
   
   #bands li:last-child {
