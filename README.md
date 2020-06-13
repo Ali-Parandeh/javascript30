@@ -18,18 +18,18 @@
   - Rotational Mathematics
   - Animation Timing Functions
   
-![Javascript and CSS Drum Kit](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/JSClock.gif)
+![Javascript Clock](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/JSClock.gif)
 
 ## 3. Changing CSS Variables with Javascript
 - Learning Points:
   - CSS Variables
   - Adding custom functions Sliders & Colour Pickers
 
+![Javascript and CSS Drum Kit](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/CSSvars.gif)
+
 ## 4. Array Cardio Day 1
 - Learning Points:
   - Popular array methods (forEach, map, filter, reduce, sort)
-  
-![Javascript and CSS Drum Kit](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/CSSvars.gif)
 
 ## 5. Flexbox Gallery
 - Learning Points:
@@ -43,11 +43,11 @@
   - Dynamic page updates
   - Implementing auto-completion search bars
 
+![Type Ahead](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/typeAhead.gif)
+
 ## 7. Array Cardio Day 2
 - Learning Points:
   - Other array methods (some, every, find, findIndex)
-  
-![Type Ahead](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/typeAhead.gif)
 
 ## 8. HTML Canvas
 - Learning Points:
