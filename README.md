@@ -24,6 +24,10 @@
 - Learning Points:
   - CSS Variables
   - Adding custom functions Sliders & Colour Pickers
+
+### 4. Array Cardio Day 1
+- Learning Points:
+  - Popular array methods (forEach, map, filter, reduce, sort)
   
 ![Javascript and CSS Drum Kit](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/CSSvars.gif)
 
@@ -38,6 +42,10 @@
 - Learning Points:
   - Dynamic page updates
   - Implementing auto-completion search bars
+
+### 7. Array Cardio Day 2
+- Learning Points:
+  - Other array methods (some, every, find, findIndex)
   
 ![Type Ahead](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/typeAhead.gif)
 
@@ -47,6 +55,11 @@
   - Creating dynamic pens with Javascript
   
 ![HTML Canvas](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/htmlCanvas.gif)
+
+### 9. Must Know Dev Tools Tricks
+- Learning Points:
+  - Several console logging tools (table, count, etc.)
+  - Debugging in browser using breakpoints (by attribute or behaviours triggered via event listeners)
 
 ### 10. Shift Select
 - Learning Points:
@@ -61,12 +74,22 @@
   
 ![Custom Video Player](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/custmVideoPlayer.gif)
 
+### 12. Key Sequence Detection
+- Learning Points:
+  - Using splice to limit array sizes while the items within shift
+
 ### 13. Slide and Scroll
 - Learning Points:
   - Working with page viewports
   - Image Animation & Transitions
   
 ![Slide and Scroll](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/SlidenScroll.gif)
+
+### 14. Objects and Arrays - Reference Vs Copy
+- Learning Points:
+  - Differences between safe and unsafe object & array manipulations
+  - Shallow and deep object copies
+  - Several methods for copying arrays & objects
 
 ### 15. Utilising Local Browser Storage
 - Learning Points:
@@ -83,3 +106,14 @@
   
 ![Mouse Move Text Effect 1](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/textShadowEffect.gif)
 ![Mouse Move Text Effect 2](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/textShadowEffect2.gif)
+
+### 17. Sorting Band Names without articles/stopwords
+- Learning Points:
+  - Writing custom sorting functions
+  - Stripping strings with regular expressions
+
+### 18. Tally String Times with Reduce
+- Learning Points:
+  - Parsing and reducing time strings
+  - Complex reduce functions
+
