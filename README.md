@@ -25,7 +25,7 @@
   - CSS Variables
   - Adding custom functions Sliders & Colour Pickers
   
-![Javascript and CSS Drum Kit](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/JSClock.gif)
+![Javascript and CSS Drum Kit](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/CSSvars.gif)
 
 ### 5. Flexbox Gallery
 - Learning Points:
@@ -59,7 +59,7 @@
   - Creating a video player from scratch
   - Adding custom video playing functions (full-screen, skips, playback speed, volume, etc)
   
-![Custom Video Player](li-Parandeh/javascript30/blob/master/assets/custmVideoPlayer.gif)
+![Custom Video Player](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/custmVideoPlayer.gif)
 
 ### 13. Slide and Scroll
 - Learning Points:
