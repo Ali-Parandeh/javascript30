@@ -29,7 +29,7 @@
 
 ### 5. Flexbox Gallery
 - Learning Points:
-  - Working with bested Flexbox Containers
+  - Working with nested Flexbox Containers
   - Flex Basis with transitions
   
 ![Flexbox Gallery](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/flexPanelGallery.gif)
