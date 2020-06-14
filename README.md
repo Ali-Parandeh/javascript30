@@ -124,3 +124,10 @@
   - Rendering webcam video to HTML Canvas
   - Applying filters to canvas webcam video (red filter, rbg split, green screen)
   - Implementing screencapturing and download functionality 
+
+## 20. Speech Synethesis 
+- Learning Points:
+  - Working with microphone and built-in browser speech recognition software
+  - Building a dictation app
+
+
