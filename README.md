@@ -117,3 +117,10 @@
   - Parsing and reducing time strings
   - Complex reduce functions
 
+## 19. Unreal Webcam Fun
+- Learning Points:
+  - Working with Media Devices to Access Webcam
+  - Rendering Webcam to video elements via localMediaStream
+  - Rendering webcam video to HTML Canvas
+  - Applying filters to canvas webcam video (red filter, rbg split, green screen)
+  - Implementing screencapturing and download functionality 
