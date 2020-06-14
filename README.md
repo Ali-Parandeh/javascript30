@@ -130,4 +130,5 @@
   - Working with microphone and built-in browser speech recognition software
   - Building a dictation app
 
+![Speech Recognition](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/speechRecognition1.gif)
 
