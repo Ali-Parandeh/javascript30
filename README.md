@@ -125,6 +125,10 @@
   - Applying filters to canvas webcam video (red filter, rbg split, green screen)
   - Implementing screencapturing and download functionality 
 
+![Red Screen](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/RedScreen.png)
+![RGB Split](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/RGBSplit.png)
+![Green Screen](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/GreenScreen.png)
+
 ## 20. Speech Synethesis 
 - Learning Points:
   - Working with microphone and built-in browser speech recognition software
@@ -132,3 +136,9 @@
 
 ![Speech Recognition](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/speechRecognition1.gif)
 
+## 21. Geolocation Based Speedometer and Compass
+- Learning Points:
+  - Working with the iphone simulator in XCode 
+  - Capturing and displaying geolocation & compass and speedometer data
+
+![Geolocation Based Speedometer](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/geolocation.gif)
