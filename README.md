@@ -129,7 +129,7 @@
 ![RGB Split](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/RGBSplit.png)
 ![Green Screen](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/GreenScreen.png)
 
-## 20. Speech Synethesis 
+## 20. Speech Recognition 
 - Learning Points:
   - Working with microphone and built-in browser speech recognition software
   - Building a dictation app
