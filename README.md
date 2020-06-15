@@ -149,3 +149,11 @@
   - Resolving follow along operations via mathematical operations
 
 ![Follow Along Links](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/followAlong.gif)
+
+## 23. Speech Synthesis
+- Learning Points:
+  - Working with built-in browser speech syntheses and voice utterance
+  - Method chaining on arrays (filter, map, find)
+  - Passing callback functions with arguments to event listeners using the bind method
+
+![Speech Synthesis](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/Speech%20Synthesis.gif)
