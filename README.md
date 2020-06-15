@@ -152,7 +152,7 @@
 
 ## 23. Speech Synthesis
 - Learning Points:
-  - Working with built-in browser speech syntheses and voice utterance
+  - Working with built-in browser speech synthesis and voice utterances
   - Method chaining on arrays (filter, map, find)
   - Passing callback functions with arguments to event listeners using the bind method
 
