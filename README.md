@@ -142,3 +142,10 @@
   - Capturing and displaying geolocation & compass and speedometer data
 
 ![Geolocation Based Speedometer](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/geolocation.gif)
+
+## 22. Follow Along Links
+- Learning Points:
+  - Identifying location of elements on the page using bounding rectangles
+  - Resolving follow along operations via mathematical operations
+
+![Follow Along Links](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/followAlong.gif)
