@@ -173,3 +173,11 @@
   - How to reverse the order of listening to events from bottom-up to top-down using the capture option.
   - How to un-bind event listeners from elements after an event is run once using once option.
 
+## 26. Follow Along Nav
+- Learning Points:
+  - Using event listeners to unhide/hide elements on the page
+  - Handling hovers where area of hover should extend when new elements are shown (to prevent elements from being hidden immediately after)
+  - Using bounding boxes and element offsets to resize and move background elements around - creating a follow along effect
+  - Preventing brittle behaviours from occuring when using setTimeouts in event listeners (sometimes classes can be added and not removed in the same order that events have happened due to the usage of setTimeout in event listener callback functions)
+
+![Follow Along Nav](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/followAlongNav.gif)
