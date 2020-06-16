@@ -173,6 +173,8 @@
   - How to reverse the order of listening to events from bottom-up to top-down using the capture option.
   - How to un-bind event listeners from elements after an event is run once using once option.
 
+![Event Capture, Propogation, Bubbling and Once](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/eventBubbling.gif)
+
 ## 26. Follow Along Nav
 - Learning Points:
   - Using event listeners to unhide/hide elements on the page
