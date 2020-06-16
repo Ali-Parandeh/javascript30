@@ -157,3 +157,11 @@
   - Passing callback functions with arguments to event listeners using the bind method
 
 ![Speech Synthesis](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/Speech%20Synthesis.gif)
+
+## 24. Fixed Nav
+- Learning Points:
+  - Fixed Positioning
+  - Attaching classes to the parent elements which can then be used to toggle styles on child elements
+  - Working with element offset heights and window.scrollY properties
+
+![Fixed Nav](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/fixedNav.gif)
