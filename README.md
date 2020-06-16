@@ -165,3 +165,11 @@
   - Working with element offset heights and window.scrollY properties
 
 ![Fixed Nav](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/fixedNav.gif)
+
+## 25. Event Capture, Propogation, Bubbling and Once
+- Learning Points:
+  - Differences between event capturing and bubbling when adding event listeners to elements
+  - How to stop event listeners from bubbling events up
+  - How to reverse the order of listening to events from bottom-up to top-down using the capture option.
+  - How to un-bind event listeners from elements after an event is run once using once option.
+
