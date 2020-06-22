@@ -191,5 +191,8 @@
 
 ![Drag and scroll](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/Drag%20and%20Scroll.gif)
 
+## 28. Video Playback Rate
+- Learning Points:
+  - Adjusting playback rate using custom slider inputs
 
-
+![Video Playback Rate](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/videoPlaybackRate.gif)
