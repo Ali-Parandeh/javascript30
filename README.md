@@ -10,7 +10,7 @@
   - Attaching event listeners to specific keys
   - HTML audio
   
-![Javascript Drum Kit](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/jsDrumKit.gif)
+![Javascript Drum Kit](https://github.com/Ali-Parandeh/javascript30/raw/master/assets/jsDrumKit.gif)
 
 ## 2. Javascript and CSS Clock
 - Learning Points:
@@ -183,3 +183,13 @@
   - Preventing brittle behaviours from occuring when using setTimeouts in event listeners (sometimes classes can be added and not removed in the same order that events have happened due to the usage of setTimeout in event listener callback functions)
 
 ![Follow Along Nav](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/followAlongNav.gif)
+
+## 27. Drag and scroll
+- Learning Points:
+  - Using event listeners to keep track of mouse states and position
+  - Changing page content via mouse movement tracking and states
+
+![Drag and scroll](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/Drag%20and%20Scroll.gif)
+
+
+
