@@ -6,3 +6,6 @@ function logText(e) {
 }
 
 divs.forEach(div => div.addEventListener('click', logText));
+
+const mans = document.querySelectorAll('.bod');
+console.log(divs);
