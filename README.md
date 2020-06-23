@@ -196,3 +196,11 @@
   - Adjusting playback rate using custom slider inputs
 
 ![Video Playback Rate](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/videoPlaybackRate.gif)
+
+## 29. Countdown Clock
+- Learning Points:
+  - Drawbacks of using setIntervals globally
+  - Working with datetime objects to construct timers
+  - Selecting elements from DOM using name properties and not query selectors
+
+![Countdown Clock](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/timer.gif)
