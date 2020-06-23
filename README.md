@@ -200,6 +200,7 @@
 ## 29. Countdown Clock
 - Learning Points:
   - Drawbacks of using setIntervals globally
+  - The need to reset setIntervals when they are called multiple times
   - Working with datetime objects to construct timers
   - Selecting elements from DOM using name properties and not query selectors
 
