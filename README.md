@@ -205,3 +205,12 @@
   - Selecting elements from DOM using name properties and not query selectors
 
 ![Countdown Clock](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/timer.gif)
+
+## 30. Whack a Mole
+- Learning Points:
+  - Creating utility functions such as RandInt.
+  - Recursive functions - If returning a repeated value - call yourself again.
+  - Using SetIntervals to time the game
+  - Preventing scores to add up if clicks are not genuine (not trusted).
+
+![Whack a Mole](https://github.com/Ali-Parandeh/javascript30/blob/master/assets/whackAMole.gif)
